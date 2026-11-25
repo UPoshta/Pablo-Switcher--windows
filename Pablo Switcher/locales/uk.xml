@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization lang="uk" name="Українська">
+    <string key="menu_autostart">Запускати при вході в систему</string>
+    <string key="status_active">Статус: Активний</string>
+    <string key="status_paused">Статус: На паузі</string>
+    <string key="last_action_none">Остання заміна: —</string>
+    <string key="last_action_fmt">Остання заміна ({mode}): «{orig}» → «{conv}» ({lang})</string>
+    <string key="mode_auto">авто</string>
+    <string key="mode_manual">ручна</string>
+    <string key="mode_selection">виділення</string>
+    <string key="stats_fmt">Автоперемикань за сесію: {count}</string>
+    <string key="menu_pause">Призупинити автоперемикання</string>
+    <string key="menu_resume">Увімкнути автоперемикання</string>
+    <string key="menu_force_convert">Конвертувати слово / виділення ({hotkey})</string>
+    <string key="menu_settings">Налаштування</string>
+    <string key="menu_about">Про програму</string>
+    <string key="menu_quit">Вийти</string>
+    <string key="settings_title">Налаштування Pablo Switcher</string>
+    <string key="settings_ui_lang">Мова інтерфейсу:</string>
+    <string key="settings_hotkey">Клавіша конвертації:</string>
+    <string key="settings_autoswitch_checkbox">Автоматично перемикати розкладку під час друку</string>
+    <string key="settings_hint">Порада: виділіть будь-яке слово мишкою або клавіатурою та натисніть обрану клавішу конвертації, щоб змінити його розкладку.</string>
+    <string key="settings_save">Зберегти</string>
+    <string key="about_title">Про програму Pablo Switcher</string>
+    <string key="about_body">Pablo Switcher v{version}
+
+Інтелектуальний перемикач розкладки клавіатури для Windows.
+
+Можливості:
+• Автоматичне розпізнавання мови слова під час набору
+• Конвертація виділеного тексту або останнього слова
+• Захист полів вводу паролів (SecureInput) та ігнорування IDE/терміналів
+Сергій Мелещук зробив цю програму </string>
+    <string key="hotkey_double_shift">Shift ×2</string>
+    <string key="hotkey_double_alt">Alt ×2</string>
+    <string key="hotkey_double_ctrl">Ctrl ×2</string>
+    <string key="hotkey_f12">Клавіша F12</string>
+    <string key="hotkey_f6">Клавіша F6</string>
+    <string key="hotkey_caps_lock">Caps Lock</string>
+	<string key="hotkey_double_win">Win x2</string>
+</localization>

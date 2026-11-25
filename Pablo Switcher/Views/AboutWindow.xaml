@@ -1,0 +1,61 @@
+﻿<Window x:Class="Pablo_Switcher.Views.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About"
+        Width="430"
+        SizeToContent="Height"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Topmost="True"
+        ShowInTaskbar="False"
+        FontFamily="Segoe UI"
+        FontSize="13">
+
+    <Grid Margin="24,22,24,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="64"/>
+            <ColumnDefinition Width="18"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Іконка програми зліва -->
+        <Image x:Name="AppIcon"
+               Grid.Row="0"
+               Grid.Column="0"
+               Width="64"
+               Height="64"
+               VerticalAlignment="Top"
+               RenderOptions.BitmapScalingMode="HighQuality"/>
+
+        <!-- Назва та опис програми справа -->
+        <StackPanel Grid.Row="0" Grid.Column="2" VerticalAlignment="Center">
+            <TextBlock x:Name="TxtTitle"
+                       FontSize="16"
+                       FontWeight="SemiBold"
+                       Margin="0,0,0,6"
+                       Text="Pablo Switcher"/>
+            <TextBlock x:Name="TxtBody"
+                       TextWrapping="Wrap"
+                       Opacity="0.82"
+                       LineHeight="18"
+                       Text="Version 1.0.1"/>
+        </StackPanel>
+
+        <!-- Кнопка ОК -->
+        <Button x:Name="BtnOk"
+                Grid.Row="2"
+                Grid.Column="2"
+                HorizontalAlignment="Right"
+                MinWidth="96"
+                Height="30"
+                IsDefault="True"
+                IsCancel="True"
+                Click="OnOkClicked"
+                Content="OK"/>
+    </Grid>
+</Window>

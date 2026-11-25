@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\views\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\views\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\views\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\views\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\locales\\en.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\locales\\en.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\locales\\uk.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\locales\\uk.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\tracelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\tracelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\asynckeyboardengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\asynckeyboardengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\windowsinputbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\windowsinputbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\xmli18nmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\xmli18nmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\pablo switcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\pablo switcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\prefixlanguagedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\prefixlanguagedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\interop\\win32native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\interop\\win32native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\trayiconservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\trayiconservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\models\\enginemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\models\\enginemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\models\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\models\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\models\\appmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\models\\appmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\foregroundwindowmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\foregroundwindowmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\views\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\views\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\models\\appinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\models\\appinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\services\\iwindowsinputbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\services\\iwindowsinputbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|c:\\users\\admin\\source\\repos\\pablo switcher\\pablo switcher\\autostart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF14DD9-FD5A-E15D-0B43-A57F36A7ABDB}|Pablo Switcher\\Pablo Switcher.csproj|solutionrelative:pablo switcher\\autostart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\AboutWindow.xaml",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Views\\AboutWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\AboutWindow.xaml",
+              "RelativeToolTip": "Pablo Switcher\\Views\\AboutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-24T13:19:35.522Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsyncKeyboardEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\AsyncKeyboardEngine.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\AsyncKeyboardEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\AsyncKeyboardEngine.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\AsyncKeyboardEngine.cs",
+              "ViewState": "AgIAAMwBAABAm5mZmdkswNsBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:22:27.346Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowsInputBridge.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\WindowsInputBridge.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\WindowsInputBridge.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\WindowsInputBridge.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\WindowsInputBridge.cs",
+              "ViewState": "AgIAADsAAAAANTMzMzMtwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:09:37.866Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\AboutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Views\\AboutWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\AboutWindow.xaml.cs",
+              "RelativeToolTip": "Pablo Switcher\\Views\\AboutWindow.xaml.cs",
+              "ViewState": "AgIAAEIAAAAA3v/////5v0wAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:20:07.07Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "en.xml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\locales\\en.xml",
+              "RelativeDocumentMoniker": "Pablo Switcher\\locales\\en.xml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\locales\\en.xml",
+              "RelativeToolTip": "Pablo Switcher\\locales\\en.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-11-25T06:34:00.709Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XmlI18nManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\XmlI18nManager.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\XmlI18nManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\XmlI18nManager.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\XmlI18nManager.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwGEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:42:27.323Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TraceLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\TraceLogger.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\TraceLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\TraceLogger.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\TraceLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:25:12.025Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrefixLanguageDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\PrefixLanguageDetector.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\PrefixLanguageDetector.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\PrefixLanguageDetector.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\PrefixLanguageDetector.cs",
+              "ViewState": "AgIAAN0AAACAEAAAAAApwPMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:16:54.665Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uk.xml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\locales\\uk.xml",
+              "RelativeDocumentMoniker": "Pablo Switcher\\locales\\uk.xml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\locales\\uk.xml",
+              "RelativeToolTip": "Pablo Switcher\\locales\\uk.xml",
+              "ViewState": "AgIAAA8AAADAAAAAAIApwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-11-25T06:36:15.192Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\App.xaml.cs",
+              "RelativeToolTip": "Pablo Switcher\\App.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAWwGAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:44:14.795Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pablo Switcher",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Pablo Switcher.csproj",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Pablo Switcher.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Pablo Switcher.csproj",
+              "RelativeToolTip": "Pablo Switcher\\Pablo Switcher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-24T13:38:12.752Z",
+              "OwnerCaption": "Pablo Switcher"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Views\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\SettingsWindow.xaml",
+              "RelativeToolTip": "Pablo Switcher\\Views\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-24T13:16:46.288Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Win32Native.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Interop\\Win32Native.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Interop\\Win32Native.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Interop\\Win32Native.cs",
+              "RelativeToolTip": "Pablo Switcher\\Interop\\Win32Native.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:08:31.819Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\App.xaml",
+              "RelativeDocumentMoniker": "Pablo Switcher\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\App.xaml",
+              "RelativeToolTip": "Pablo Switcher\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-24T13:43:09.811Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrayIconService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\TrayIconService.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\TrayIconService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\TrayIconService.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\TrayIconService.cs",
+              "ViewState": "AgIAAAIAAAAAaGZmZmYUwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:59:17.064Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EngineModels.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\EngineModels.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Models\\EngineModels.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\EngineModels.cs",
+              "RelativeToolTip": "Pablo Switcher\\Models\\EngineModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:20:31.05Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LanguageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\LanguageProfile.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Models\\LanguageProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\LanguageProfile.cs",
+              "RelativeToolTip": "Pablo Switcher\\Models\\LanguageProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:15:25.284Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppModels.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\AppModels.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Models\\AppModels.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\AppModels.cs",
+              "RelativeToolTip": "Pablo Switcher\\Models\\AppModels.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:41:10.252Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForegroundWindowMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\ForegroundWindowMonitor.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\ForegroundWindowMonitor.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\ForegroundWindowMonitor.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\ForegroundWindowMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:42:19.62Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Views\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Views\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "Pablo Switcher\\Views\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:18:24.921Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\AppInfo.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Models\\AppInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Models\\AppInfo.cs",
+              "RelativeToolTip": "Pablo Switcher\\Models\\AppInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:12:19.069Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IWindowsInputBridge.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\IWindowsInputBridge.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\Services\\IWindowsInputBridge.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\Services\\IWindowsInputBridge.cs",
+              "RelativeToolTip": "Pablo Switcher\\Services\\IWindowsInputBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:21:32.95Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "autostart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\autostart.cs",
+              "RelativeDocumentMoniker": "Pablo Switcher\\autostart.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Pablo Switcher\\Pablo Switcher\\autostart.cs",
+              "RelativeToolTip": "Pablo Switcher\\autostart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:10:59.392Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

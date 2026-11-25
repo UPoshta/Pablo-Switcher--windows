@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization lang="en" name="English">
+    <string key="menu_autostart">Launch at system startup</string>
+    <string key="status_active">Status: Active</string>
+    <string key="status_paused">Status: Paused</string>
+    <string key="last_action_none">Last conversion: —</string>
+    <string key="last_action_fmt">Last ({mode}): “{orig}” → “{conv}” ({lang})</string>
+    <string key="mode_auto">auto</string>
+    <string key="mode_manual">manual</string>
+    <string key="mode_selection">selection</string>
+    <string key="stats_fmt">Auto-switches this session: {count}</string>
+    <string key="menu_pause">Pause Auto-Switching</string>
+    <string key="menu_resume">Resume Auto-Switching</string>
+    <string key="menu_force_convert">Convert Word / Selection ({hotkey})</string>
+    <string key="menu_settings">Settings</string>
+    <string key="menu_about">About Pablo Switcher</string>
+    <string key="menu_quit">Quit</string>
+    <string key="settings_title">Pablo Switcher Settings</string>
+    <string key="settings_ui_lang">Interface Language:</string>
+    <string key="settings_hotkey">Conversion Shortcut:</string>
+    <string key="settings_autoswitch_checkbox">Automatically switch layout while typing</string>
+    <string key="settings_hint">Tip: Select any word or phrase and press your conversion shortcut to transliterate it between English and Ukrainian layouts.</string>
+    <string key="settings_save">Save</string>
+    <string key="about_title">About Pablo Switcher</string>
+    <string key="about_body">Pablo Switcher v{version}
+
+Intelligent keyboard layout switcher for Windows.
+
+Features:
+• Automatic prefix-based language detection while typing
+• Instant conversion of selected text or last typed word
+• SecureInput password protection and IDE/Terminal exclusion
+Serhii Meleshchuk created this program.</string>
+    <string key="hotkey_double_shift">Shift ×2</string>
+    <string key="hotkey_double_alt">Alt ×2</string>
+    <string key="hotkey_double_ctrl">Ctrl ×2</string>
+    <string key="hotkey_f12">F12 Key</string>
+    <string key="hotkey_f6">F6 Key</string>
+    <string key="hotkey_caps_lock">Caps Lock</string>
+	<string key="hotkey_double_win">Win x2</string>
+</localization>
